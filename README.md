@@ -1,2 +1,2 @@
 # booklist
-Booklist built with JavaScript
+Booklist built with JavaScript - OOP
